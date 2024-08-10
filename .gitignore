@@ -3,4 +3,12 @@ main.py
 __pycache__
 ./chapter01/__pycache__
 ./chapter02/__pycache__
+./chapter03/__pycache__
+./chapter04/__pycache__
+./chapter05/__pycache__
+./chapter06/__pycache__
+./chapter07/__pycache__
+./chapter08/__pycache__
+./chapter09/__pycache__
+./chapter10/__pycache__
 ./tests/__pycache__
